@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: 28582e5be60dbd744a779d17593149b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5937036615599879951
+    second: transparanson_0
+  - first:
+      213: -8932350218869332627
+    second: transparanson_1
+  - first:
+      213: -7755348043074740418
+    second: transparanson_2
+  - first:
+      213: -122423827816383380
+    second: transparanson_3
+  - first:
+      213: 9157354141020992820
+    second: transparanson_4
+  - first:
+      213: 4357795638932228314
+    second: transparanson_5
+  - first:
+      213: 2965546146994845136
+    second: transparanson_6
+  - first:
+      213: -101817093393965112
+    second: transparanson_7
+  - first:
+      213: 8092989804473552169
+    second: transparanson_8
+  - first:
+      213: 8168836998829319809
+    second: transparanson_9
+  - first:
+      213: -3427131500746570331
+    second: transparanson_10
+  - first:
+      213: 4855992859407269092
+    second: transparanson_11
+  - first:
+      213: -4152734715120082093
+    second: transparanson_12
+  - first:
+      213: -5987408249721327617
+    second: transparanson_13
+  - first:
+      213: 1750632818800079823
+    second: transparanson_14
+  - first:
+      213: -2037398149099249034
+    second: transparanson_15
+  - first:
+      213: -6084962200831013064
+    second: transparanson_16
+  - first:
+      213: 2372834736976652393
+    second: transparanson_17
+  - first:
+      213: -5846202383161644655
+    second: transparanson_18
+  - first:
+      213: -2010936655403935502
+    second: transparanson_19
+  - first:
+      213: -5112619518464929931
+    second: transparanson_20
+  - first:
+      213: 3524236406576507521
+    second: transparanson_21
+  - first:
+      213: -3262435448502670758
+    second: transparanson_22
+  - first:
+      213: -2145055859574694688
+    second: transparanson_23
+  - first:
+      213: -3446803334956570236
+    second: transparanson_24
+  - first:
+      213: 8910396385493126515
+    second: transparanson_25
+  - first:
+      213: 6932286445838192945
+    second: transparanson_26
+  - first:
+      213: -207419104431386984
+    second: transparanson_27
+  - first:
+      213: 7158923573614669842
+    second: transparanson_28
+  - first:
+      213: -3083615988362450251
+    second: transparanson_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: transparanson_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 733
+        width: 199
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f88ea467a86b9da0800000000000000
+      internalID: -5937036615599879951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1253
+        width: 201
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6529e23dcae90480800000000000000
+      internalID: -8932350218869332627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1253
+        width: 200
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f520f5b087f5490800000000000000
+      internalID: -7755348043074740418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1248
+        width: 199
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cf5fe5d201d4ef0800000000000000
+      internalID: -122423827816383380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_4
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 737
+        width: 434
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4353202d215751f70800000000000000
+      internalID: 9157354141020992820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_5
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 733
+        width: 435
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad84d468b000a7c30800000000000000
+      internalID: 4357795638932228314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_6
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 733
+        width: 433
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5f7a0328cb72920800000000000000
+      internalID: 2965546146994845136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1023
+        width: 201
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf903c94e5469ef0800000000000000
+      internalID: -101817093393965112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_8
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1023
+        width: 200
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d01824953105070800000000000000
+      internalID: 8092989804473552169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_9
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1023
+        width: 199
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1862a4758f98d5170800000000000000
+      internalID: 8168836998829319809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 787
+        width: 200
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5037bce026070d0800000000000000
+      internalID: -3427131500746570331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 787
+        width: 200
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecbdc807c3f36340800000000000000
+      internalID: 4855992859407269092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 787
+        width: 200
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353a5da57c58e56c0800000000000000
+      internalID: -4152734715120082093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_13
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 787
+        width: 199
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffed166be378eca0800000000000000
+      internalID: -5987408249721327617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 541
+        width: 200
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc338b0064f7b4810800000000000000
+      internalID: 1750632818800079823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 537
+        width: 200
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672a6e09d25b9b3e0800000000000000
+      internalID: -2037398149099249034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_16
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 643
+        width: 231
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fc9cb2e1fdd8ba0800000000000000
+      internalID: -6084962200831013064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 534
+        width: 230
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96863381f900ee020800000000000000
+      internalID: 2372834736976652393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 437
+        width: 551
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199ab9238ed1edea0800000000000000
+      internalID: -5846202383161644655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_19
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 445
+        width: 110
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f816dc24c7b714e0800000000000000
+      internalID: -2010936655403935502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 383
+        width: 551
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f4b22c2a35c09b0800000000000000
+      internalID: -5112619518464929931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_21
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 392
+        width: 152
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aed7ee65a98e030800000000000000
+      internalID: 3524236406576507521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 328
+        width: 551
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a2b55ae3089b2d0800000000000000
+      internalID: -3262435448502670758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_23
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 337
+        width: 97
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec1eaa8f0b3b32e0800000000000000
+      internalID: -2145055859574694688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 186
+        width: 387
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4892849f0ae7a20d0800000000000000
+      internalID: -3446803334956570236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_25
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 36
+        width: 435
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d0e35ad4618ab70800000000000000
+      internalID: 8910396385493126515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 430
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d07d2bcd643060800000000000000
+      internalID: 6932286445838192945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 106
+        width: 282
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eccb86c691f1df0800000000000000
+      internalID: -207419104431386984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 43
+        width: 268
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210f8738f0b995360800000000000000
+      internalID: 7158923573614669842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparanson_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bae0f5a89bc435d0800000000000000
+      internalID: -3083615988362450251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
